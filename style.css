@@ -30,3 +30,15 @@ div {
 	padding: 20px;
 	color: white;
 }
+container{
+text-align: center;
+}
+button{
+background-attachment: fixed;
+background: #069;
+font-size: 32px;
+padding:8px 20px;
+cursor:pointer;
+border: 0;
+
+}
