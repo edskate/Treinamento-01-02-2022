@@ -8,16 +8,23 @@
 
 [href^="https"] {
 	background: #84e;
+	border: 3px solid rgba(245, 8, 8, 0.6);
 }
 
 [target="_blank"] {
 	background: #FB1C61;
+	border-radius: 15px 2px 3px ;
+	-webkit-border-radius: 15px 2px 3px ;
+	-moz-border-radius: 15px 2px 3px ;
+	-ms-border-radius: 15px 2px 3px ;
+	-o-border-radius: 15px 2px 3px ;
 }
 
 
 div {
 	max-width: 300px;
 	margin: 20px auto;
+	
 }
 
 [href] {
